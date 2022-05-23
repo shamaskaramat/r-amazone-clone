@@ -1,0 +1,27 @@
+.container{
+    height: 400px;
+    width: 350px;
+    margin: 20px;
+    display: flex;
+    margin-bottom: 20px;
+    flex-direction: column;
+    background-color: #fff;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.img{
+    height: 300px;
+    width: 280px;
+    margin: auto;
+    object-fit: contain;
+}
+.text{
+margin-left: 27px;
+margin-bottom: 20px;
+cursor: pointer;
+}
+.text:hover{
+color: orange;
+}
+.title{
+   text-align: center;
+}

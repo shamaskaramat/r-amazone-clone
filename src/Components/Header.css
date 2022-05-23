@@ -1,0 +1,56 @@
+.logo{
+    width: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 18px;
+}
+.header{
+    background-color: #131921;
+    display: flex;
+    align-items: center;
+    object-fit: contain;
+    position: sticky;
+    top:0;
+    z-index: 100;
+}
+.search{
+    background-color: rgb(255, 193, 79);
+    padding: 10px;
+    font-size: 25px;
+}
+.search:hover{
+    background-color: rgb(230, 157, 20);
+    cursor: pointer;
+}
+.searchheader{
+    width: 60%;
+    height: 20px;
+    border: none;
+    padding: 10px;
+}
+.headeroptions{
+    color: #fff;
+}
+.number{
+    position: absolute;
+    right: 10;
+    top:8;
+    background-color: red; 
+    border-radius: 40%;  
+    width: 20px;
+    text-align: center;
+    color: #fff;
+}
+.shopicon{
+    color: #fff;
+    margin-top: 10px;
+    font-size: larger;
+    
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+}
+.headeroptions{
+    margin-left: 60px;
+}

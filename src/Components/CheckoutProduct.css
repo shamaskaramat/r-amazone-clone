@@ -1,0 +1,33 @@
+.checkoutproduct{
+    display: flex;
+    margin-bottom: 20px;
+}
+.imageproduct{
+    margin-left: 20px;
+    height: 250px;
+    width: 250px;
+}
+.productinfo{
+    display: flex;
+    flex-direction: column;
+    margin-top: -10px;
+}
+.checkoutproducttitle{
+    font-size: larger;
+    font-weight:800 ;
+    margin-top: -10px;
+
+}
+.checkoutrating{
+    display: flex;
+    margin-top: -10px;
+}
+.removeproduct{
+    background-color: orange;
+    color: black;
+    font-weight:bold;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.banner1{
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 8px;
+    padding: 10px;
+}
+.checkout{
+    display: flex;
+    padding: 20px;
+}
+.checkout__left{
+    width: 80%;
+}
